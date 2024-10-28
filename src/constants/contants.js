@@ -1,0 +1,1 @@
+export const BASE_URL="https://7pmn5pclup6iznoqqlod75lmia0eyyxf.lambda-url.us-west-1.on.aws"
